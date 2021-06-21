@@ -8,6 +8,7 @@
 
 ## PyTorch
 
+.vscode
 .coverage
 coverage.xml
 .dmypy.json
